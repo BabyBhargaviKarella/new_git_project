@@ -1,4 +1,4 @@
 vi
 ls
 ls -la
-
+rm -rf
